@@ -1,0 +1,10 @@
+{
+  "name": "@learn/antigravity-visual-tools",
+  "version": "1.0.0",
+  "description": "Mermaid and SVG rendering tools for Antigravity visualize skill (uses local Google Chrome).",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^11.4.2"
+  }
+}
